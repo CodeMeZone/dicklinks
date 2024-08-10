@@ -6,6 +6,8 @@
 ||zhnk7qme.click^
 ||adobelogin.com^
 ||adobe.com^
+||adobe.io^
 ||adobegenuine.com^
 ||prod.cloud.adobe.io^
 ||adobestats.io^
+||1hzopx6nz7.adobe.io^
